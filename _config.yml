@@ -1,7 +1,5 @@
-title: [RiskyClick]
-# description: [A short description of your site's purpose]
-
-theme: jekyll-theme-slate
-
-github:
-  is_project_page: false
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "" # the name of your site, e.g. ACME Corp.
+exclude:
+  - old
